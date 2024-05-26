@@ -1,0 +1,6 @@
+TRUNCATE TABLE producto;
+TRUNCATE TABLE pedido;
+TRUNCATE TABLE cliente;
+TRUNCATE TABLE empleado;
+TRUNCATE TABLE oficina;
+TRUNCATE TABLE tiempo;
